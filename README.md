@@ -1,1 +1,1 @@
-# Unet-for-covid-ct-scan-dataset-
+# Unet for covid ct-scan dataset
